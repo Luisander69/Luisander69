@@ -2,7 +2,7 @@
 - 👀 I’m interested in Networking and Ethical Hacking
 - 🌱 I have experience with Java and Spring Framework. I’m currently learning Rust and Python
 - 💞️ I’m looking to collaborate on any simple project
-- 📫 How to reach me: lui_stefany@yahoo.com
+- 📫 How to reach me: stefaniukliubomyr@gmail.com
 
 <!---
 Luisander69/Luisander69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
